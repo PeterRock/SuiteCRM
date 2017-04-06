@@ -43,6 +43,8 @@ The following links offer various ways to view, contribute and collaborate to th
 [ View the Roadmap here and get involved][suitecrm_roadmap]
 
 [suitecrm_roadmap]: https://suitecrm.com/community/roadmap
+### Translation ###
+[SuiteCRM core translation]:https://crowdin.com/project/suitecrmtranslations
 
 ### Support & Licensing ###
 
